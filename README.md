@@ -1,2 +1,2 @@
-# matplotlib-GUI
-一键生成matplotlib图表，GUI界面
+# matplotlib代码生成器
+一键生成所需图表的matplotlib代码
